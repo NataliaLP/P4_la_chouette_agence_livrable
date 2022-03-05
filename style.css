@@ -791,7 +791,7 @@ h4 {
     background: #c27956!important;
     color: #FFFFFF!important;
 }
-.btn-atomic-tangerine:focus-visible {
+.btn-atomic-tangerine:focus {
     outline: 3px black!important;
 
 }
