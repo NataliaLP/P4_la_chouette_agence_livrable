@@ -869,6 +869,9 @@ h4 {
 }
 
 @media (max-width: 991px) {
+    #bloc-3-what-i-do {
+        padding: 0!important;
+    }
     .container {
         width: 100%;
     }
